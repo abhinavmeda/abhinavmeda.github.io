@@ -1,4 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
+.page-header { color: #fff;  text-align: center; background-color: #1b1f1d; background-size: cover; background-position: 100% 30%;}
+.project-tagline { color: #fff; }
