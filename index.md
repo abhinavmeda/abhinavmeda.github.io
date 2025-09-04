@@ -11,7 +11,7 @@ I am experienced in software engineering, data engineering, and workflow automat
 
 On a non-work-related note, I enjoy reading, making music, and taking long walks.
 
-If you have any intriguing opportunities, please contact me on one of the platforms above or view my resume.
+If you have any intriguing opportunities, please contact me at one of the platforms above or view my resume.
 
 
 
